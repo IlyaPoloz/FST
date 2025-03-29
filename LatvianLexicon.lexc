@@ -19,11 +19,13 @@ LEXICON Subst
   bild    D5  ;
   tulp    D5  ;
   brīz    D5  ;
+  gāz     D5  ;
+  planšet D5  ;
+  front   D5  ;
   haiziv  D6  ;
   krāsn   D6  ;
   dzelz   D6  ;
   ugun    D6  ;
-  pirt    D6  ;
 
 ! 1. deklinācija (D1š):
 LEXICON D1š
