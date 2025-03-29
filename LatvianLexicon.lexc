@@ -1,0 +1,78 @@
+Multichar_Symbols
+    +N      ! Noun tag
+    +Sg     ! Singular
+    +Pl     ! Plural
+    +Nom    ! Nominative
+    +Gen    ! Genitive
+    +Dat    ! Dative
+    +Acc    ! Accusative
+    +Loc    ! Locative
+
+LEXICON Start
+  Subst ;
+
+LEXICON Subst
+  vēj     D1š ;
+  kok     D1s ;
+  snieg   D1s ;
+  tilt    D1s ;
+  bild    D5  ;
+  tulp    D5  ;
+  brīz    D5  ;
+  haiziv  D6  ;
+  krāsn   D6  ;
+  dzelz   D6  ;
+  ugun    D6  ;
+  pirt    D6  ;
+
+! 1. deklinācija (D1š):
+LEXICON D1š
++N+Sg+Nom:^š # ;
++N+Sg+Gen:^a # ;
++N+Sg+Dat:^am # ;
++N+Sg+Acc:^u # ;
++N+Sg+Loc:^ā # ;
++N+Pl+Nom:^i # ;
++N+Pl+Gen:^u # ;
++N+Pl+Dat:^iem # ;
++N+Pl+Acc:^us # ;
++N+Pl+Loc:^os # ;
+
+! 1. deklinācija (D1s):
+LEXICON D1s
++N+Sg+Nom:^s # ;
++N+Sg+Gen:^a # ;
++N+Sg+Dat:^am # ;
++N+Sg+Acc:^u # ;
++N+Sg+Loc:^ā # ;
++N+Pl+Nom:^i # ;
++N+Pl+Gen:^u # ;
++N+Pl+Dat:^iem # ;
++N+Pl+Acc:^us # ;
++N+Pl+Loc:^os # ;
+
+! 5. deklinācija (D5):
+LEXICON D5
++N+Sg+Nom:^e # ;
++N+Sg+Gen:^es # ;
++N+Sg+Dat:^ei # ;
++N+Sg+Acc:^i # ;
++N+Sg+Loc:^ē # ;
++N+Pl+Nom:^es # ;
++N+Pl+Gen:^VMu # ;
++N+Pl+Dat:^ēm # ;
++N+Pl+Acc:^es # ;
++N+Pl+Loc:^ēs # ;
+
+! 6. deklinācija (D6):
+LEXICON D6
++N+Sg+Nom:^s # ;
++N+Sg+Gen:^s # ;
++N+Sg+Dat:^ij # ;
++N+Sg+Acc:^i # ;
++N+Sg+Loc:^ī # ;
++N+Pl+Nom:^is # ;
++N+Pl+Gen:^VMu # ;
++N+Pl+Dat:^īm # ;
++N+Pl+Acc:^is # ;
++N+Pl+Loc:^īs # ;
